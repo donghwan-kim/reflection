@@ -3,3 +3,6 @@
 
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 따로 하고 있는 작업이 있는데 자동으로 다른 사람이 올린 commit들이 중복되어 pull되면 문제가 생길 것이다.
+
+3. Describe the differences between forks, clones, and branches. When you use one instead of another?
+fork는 다른 사람의 repository를 나의 github로 가져오는 것. clone은 local로 repository를 가져오는 것, branch는 둘과는 좀 다른 개념. fork는원저자의 링크를 가지고 있으며 원작과 연결되어 있다. clone는 local에 가져와 작업을 할때 쓰인다.
