@@ -6,3 +6,6 @@
 
 3. Describe the differences between forks, clones, and branches. When you use one instead of another?
 fork는 다른 사람의 repository를 나의 github로 가져오는 것. clone은 local로 repository를 가져오는 것, branch는 둘과는 좀 다른 개념. fork는원저자의 링크를 가지고 있으며 원작과 연결되어 있다. clone는 local에 가져와 작업을 할때 쓰인다.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+뭔말인지 잘 모르겠다.. remote stored locally??
